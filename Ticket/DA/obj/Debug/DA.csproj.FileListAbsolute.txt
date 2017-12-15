@@ -1,0 +1,6 @@
+C:\HW\Ticket\DA\bin\Debug\DA.dll
+C:\HW\Ticket\DA\bin\Debug\DA.pdb
+C:\HW\Ticket\DA\obj\Debug\DA.csprojResolveAssemblyReference.cache
+C:\HW\Ticket\DA\obj\Debug\DA.dll
+C:\HW\Ticket\DA\obj\Debug\DA.pdb
+C:\HW\Ticket\DA\bin\Debug\DB.accdb
